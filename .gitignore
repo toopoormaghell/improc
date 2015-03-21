@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Files created by QtCreator
+*.pro.user
+Makefile*
