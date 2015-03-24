@@ -18,7 +18,7 @@ class IpMainWindow : public QMainWindow
     Q_OBJECT
 
 public:
-    explicit IpMainWindow(QWidget *parent = 0);
+    explicit IpMainWindow( QWidget *parent = 0 );
     ~IpMainWindow();
 
 private:

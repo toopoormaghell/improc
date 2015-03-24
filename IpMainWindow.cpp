@@ -3,11 +3,11 @@
 
 
 
-IpMainWindow::IpMainWindow(QWidget *parent) :
-    QMainWindow(parent),
-    ui(new Ui::IpMainWindow)
+IpMainWindow::IpMainWindow( QWidget *parent ) :
+    QMainWindow( parent ),
+    ui( new Ui::IpMainWindow )
 {
-    ui->setupUi(this);
+    ui->setupUi( this );
 }
 
 
